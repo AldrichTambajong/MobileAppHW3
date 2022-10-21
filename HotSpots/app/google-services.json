@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670743446621",
+    "firebase_url": "https://hotspots-c873b-default-rtdb.firebaseio.com",
+    "project_id": "hotspots-c873b",
+    "storage_bucket": "hotspots-c873b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670743446621:android:13af0ed47ee771c0a0b9b4",
+        "android_client_info": {
+          "package_name": "com.example.hotspots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670743446621-0547emqsf9sa5k4pt3areqm1mlg55ncv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotspots",
+            "certificate_hash": "629a42affd27584b358ab4c28bb3ae2a3596f0f9"
+          }
+        },
+        {
+          "client_id": "670743446621-p7qnutnnn94g8ds13v1qtbd4gnafcidl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2y-tM6p-xAgA_0dHN_W0B5I1VpCAENy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670743446621-p7qnutnnn94g8ds13v1qtbd4gnafcidl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
